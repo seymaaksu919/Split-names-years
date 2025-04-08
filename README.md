@@ -9,4 +9,4 @@ Bu projede, `pioneers` adında, ünlü öncülerin isimleri ve doğum yılların
 3. names: Pionerlerin isimlerini çıkarır ve saklar.
 4. years: Pionerlerin doğum yıllarını çıkarır ve saklar.
 
-lapply() :Bir liste veya vektör gibi veri yapılarına uygulanabilen, her bir öğe üzerinde bir fonksiyon çalıştırarak sonuçları bir liste halinde döndüren bir R fonksiyonudur. Bir listedeki her öğenin sınıfını bulmak için karakter(string) uzunluğunu bulmak için de kullanılabilir. Oluşan çıktı genelde listedir. Vektör olarak istiyorsak sonucu listeden kaldırabiliriz. Unlist() metodunu kullanarak.
+lapply() :Bir liste veya vektör gibi veri yapılarına uygulanabilen, her bir öğe üzerinde bir fonksiyon çalıştırarak sonuçları bir liste halinde döndüren bir R fonksiyonudur. Bir listedeki her öğenin sınıfını bulmak veya karakter(string) uzunluğunu bulmak için de kullanılabilir. Oluşan çıktı genelde listedir. Vektör olarak istiyorsak sonucu listeden kaldırabiliriz. Unlist() metodunu kullanarak.
